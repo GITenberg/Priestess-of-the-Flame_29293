@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9555
 description: Commander John Hanson recounts the extraordinary story of Liane, Priestess
   of the Flame.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29293#Priestess-of-the-Flame
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
